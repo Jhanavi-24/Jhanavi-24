@@ -126,7 +126,7 @@ Built a recipe generator from image + text inputs and enhanced UX with an OpenAI
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: *(add your link here)*
+- LinkedIn: *([Jhanavi Putcha](https://www.linkedin.com/in/jhanavi-putcha/))*
 - Email: jhanaviputcha957@gmail.com
 
 ⭐ If you like my work, feel free to star my repositories!
