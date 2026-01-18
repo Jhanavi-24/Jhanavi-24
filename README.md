@@ -98,7 +98,7 @@ Vignana Bharathi Institute of Technology | **Graduated**
 ### Tools
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 
 ---
 
@@ -126,7 +126,7 @@ Built a recipe generator from image + text inputs and enhanced UX with an OpenAI
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: *([Jhanavi Putcha](https://www.linkedin.com/in/jhanavi-putcha/))*
+- LinkedIn: *[Jhanavi Putcha](https://www.linkedin.com/in/jhanavi-putcha/)*
 - Email: jhanaviputcha957@gmail.com
 
 ⭐ If you like my work, feel free to star my repositories!
