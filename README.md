@@ -22,9 +22,9 @@
 <details>
   <summary>⚡ Fun Facts (click to expand)</summary>
 
-  - 🧠 I enjoy debugging ML pipelines more than writing them
-  - ☁️ I love designing cloud architectures on paper first
-  - 📊 I can spend hours tuning one model parameter
+  - 📊 Clean tables make me unreasonably happy
+  - 🎧 I debug better with music on
+  - 📓 I keep notes for “future me” (who always forgets)
   - 🍵 Coffee → Code → Repeat
 </details>
 
