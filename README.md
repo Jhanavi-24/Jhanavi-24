@@ -17,7 +17,6 @@
 - 🤖 Experienced in **Computer Vision, ML pipelines, and data analytics**
 - 🧠 Interested in **scalable ML systems, cloud data engineering, and AI products**
 - 💬 Ask me about **Python, ML, YOLO, AWS, Snowflake**
-- ⚡ Fun fact: I enjoy turning messy data into clean, production-ready systems
 
 <details>
   <summary>⚡ Fun Facts (click to expand)</summary>
