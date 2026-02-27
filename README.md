@@ -86,9 +86,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhanavi-24&layout=compact&theme=react" width="48%"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
