@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jhanavi Putcha</h1>
+<h1 align="center">Hi 👋, I'm Jhanavi</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+AI+Engineer;Building+ML+Systems+at+Scale;Cloud+%2B+AI+%2B+Data+Pipelines;Turning+Data+into+Decisions" />
 </p>
 
 
 <p align="center">
-📍 Buffalo, NY • 📧 jhanaviputcha957@gmail.com
+📍 United States
 </p>
 
 ---
@@ -31,20 +31,6 @@
 - ☁️ AWS-based AI Bookkeeping & Analytics Platform
 - 🤖 Vision AI pipelines for large-scale inspection
 - 📊 Improving data quality & ML reliability
-
-
----
-
-## 🌐 Socials
-
-<p align="left">
-<a href="https://www.linkedin.com/" target="[_blank](https://www.linkedin.com/in/jhanavi-putcha/)">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:jhanaviputcha957@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
 
 ---
 
